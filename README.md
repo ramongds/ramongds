@@ -14,7 +14,7 @@ Pretendo logo ter poder trazer conteúdos de relevância para cá, e se quiser v
 
 🧠 Estou aprendendo...
 
-    JavaScrip, React, Node, HTML,CSS
+    React, TypeScript, JavaScrip, Node, HTML,CSS
 
 👯‍♀️ Procuro colaborar em...
 
