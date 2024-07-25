@@ -32,6 +32,11 @@ Pretendo logo ter poder trazer conteúdos de relevância para cá, e se quiser v
     satisfeitas com sua carreira e pensamentos. Não consigo me imaginar estagnado em algo, 
     isto me da aflição. Por este motivo estou sempre buscando me capacitar e evoluir meus pensamentos e práticas
 
+😄 Pronomes...
+
+    Por muito tempo no colegial fui chamado de "Tucano" por conta de meu nariz característico. 
+    Acho que Tucano's Dev seria uma marca interessante 😄
+
 📫 Como entrar em contato comigo...
 
     Voçê pode me contatar através do meu perfil 
@@ -39,10 +44,7 @@ Pretendo logo ter poder trazer conteúdos de relevância para cá, e se quiser v
     
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ramonGomesDev)
 
-😄 Pronomes...
 
-    Por muito tempo no colegial fui chamado de "Tucano" por conta de meu nariz característico. 
-    Acho que Tucano's Dev seria uma marca interessante 😄
 
 
 
