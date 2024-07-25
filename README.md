@@ -42,7 +42,7 @@ Pretendo logo ter poder trazer conteúdos de relevância para cá, e se quiser v
     Voçê pode me contatar através do meu perfil 
     do Linkedin deste botão abaixo:
     
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ramonGomesDev)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramongomesdev/)
 
 
 
