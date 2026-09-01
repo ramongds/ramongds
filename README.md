@@ -1,51 +1,73 @@
+# Olá, eu sou Ramon Gomes! 👋
 
-# É bom te ver por aqui! 👋
+Sou **Frontend Software Engineer**, com experiência no desenvolvimento de aplicações para o setor financeiro, atuando principalmente com **React, Next.js e TypeScript**.
 
-Olá sou Ramon Gomes, no momento estudante e entusiasta da programação WEB. Estou focado nos estudos para me tornar dev full-stack, e pretendo trazer conteúdos semanalmente para meu portifólio afim de treinar e mostrar minhas skils.
+Atualmente trabalho na construção e evolução de aplicações web, participando desde decisões de **arquitetura frontend** até integrações com **APIs, microsserviços e workflows**.
 
-Pretendo logo ter poder trazer conteúdos de relevância para cá, e se quiser ver alguns projetos que ja fiz é só clicar! 
+Tenho bastante interesse em arquitetura de software, desenvolvimento de componentes reutilizáveis, performance, automação de processos e construção de soluções escaláveis.
 
+Além do frontend, também tenho experiência trabalhando com **Node.js, C#/.NET e bancos de dados relacionais**, o que me permite ter uma visão mais completa das aplicações e das integrações entre sistemas.
 
+---
 
+### 👨‍💻 Atualmente trabalho com
 
-👩‍💻 Trabalho atualmente
+* React
+* Next.js
+* TypeScript
+* JavaScript
+* React Hook Form
+* Zustand
+* TanStack Query
+* Styled Components / Tailwind CSS
+* Node.js
+* APIs REST
+* Microsserviços
+* C# / .NET
+* SQL / PostgreSQL / SQL Server
+* Git / GitLab
+* CI/CD
 
-    Com prestação de serviços para desenvolvimento WEB
+---
 
-🧠 Estou aprendendo...
+### 🏗️ Áreas que tenho estudado e aplicado
 
-    React, TypeScript, JavaScrip, Node, HTML,CSS
+* Arquitetura Frontend
+* Design de componentes reutilizáveis
+* State Management
+* Integração entre sistemas
+* API Design
+* Microservices Integration
+* Workflow Orchestration
+* Error Handling
+* Polling & Retry Strategies
+* Performance Optimization
+* Observabilidade
+* Clean Code
+* Boas práticas de desenvolvimento
 
-👯‍♀️ Procuro colaborar em...
+---
 
-    Projetos pessoais, formação de novos conceitos e afins
+### 🚀 O que você vai encontrar por aqui
 
-🤔 Procuro ajuda com...
+Este GitHub é onde compartilho projetos, estudos, experimentos e soluções desenvolvidas durante minha evolução como engenheiro de software.
 
-    Trabalhos. Atualmente não estou enganjado, já desenrolo muita coisa no front-end, 
-    poder aplicar meus conhecimentos em algo real e poder lucrar algo com isso seria exelente!
+Meu objetivo é continuar aprofundando meus conhecimentos em **Frontend Engineering, arquitetura de software e desenvolvimento Full Stack**, construindo projetos cada vez mais completos e próximos de cenários reais.
 
-💬 Me pergunte sobre...
+---
 
-    Desenvolvimento pessoal, acredito muto neste poder! 
-    Ao meu redor vejo muitas pessoas sem espectativas de futuro, 
-    satisfeitas com sua carreira e pensamentos. Não consigo me imaginar estagnado em algo, 
-    isto me da aflição. Por este motivo estou sempre buscando me capacitar e evoluir meus pensamentos e práticas
+### 💬 Me pergunte sobre
 
-😄 Pronomes...
+**React, Next.js, TypeScript, arquitetura frontend, gerenciamento de estado, formulários complexos, integração com APIs e desenvolvimento de aplicações web.**
 
-    Por muito tempo no colegial fui chamado de "Tucano" por conta de meu nariz característico. 
-    Acho que Tucano's Dev seria uma marca interessante 😄
+Também gosto bastante de discutir tecnologia, carreira e evolução profissional.
 
-📫 Como entrar em contato comigo...
+Acredito que tecnologia exige aprendizado constante e procuro sempre evoluir tanto tecnicamente quanto na forma de pensar e resolver problemas.
 
-    Voçê pode me contatar através do meu perfil 
-    do Linkedin deste botão abaixo:
-    
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramongomesdev/)
+---
 
+### 📫 Entre em contato
 
+Você pode me encontrar no LinkedIn:
 
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ramongomesdev/)
